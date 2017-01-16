@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: e862431a2c4ee524e801ef2c3f9d563d
+timeCreated: 1484574035
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - m_Maze: {instanceID: 0}
+  - m_CorridorPrefab: {fileID: 1000014235365366, guid: fc2275432193b464cb2ab11262edce05,
+      type: 2}
+  - m_CrossroadPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
